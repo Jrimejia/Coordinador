@@ -7,13 +7,13 @@
 }
 
 .showcase-area {
-    height: 30vh;
+    height: 35vh;
 
     background: linear-gradient(
         rgba(240, 240, 240, 0.144),
         rgba(255, 255, 255, 0.336)
       ),
-      url("https://i.postimg.cc/HnVfgKWb/Carval.jpg");
+      url("https://i.postimg.cc/tJKKqC7V/imgcarval.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
