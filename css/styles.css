@@ -19,6 +19,15 @@
     background-repeat: no-repeat;
   }
   
+  .btn-primary {
+    color: #fff;
+    background-color: #17556b;
+}
+
+.btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
+    color: #ffffffb9;
+    background-color: #ffffffb9;
+}
 
 .logo {
     left: 500px;
