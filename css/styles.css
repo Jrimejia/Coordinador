@@ -21,10 +21,10 @@
   
   .btn-primary {
     color: #fff;
-    background-color: #17556b;
+    background-color: #17556b; /* ESTE CAMPO ES PARA RELLENAR EL COLOR DEL VER MÁS */ 
 }
 
-.btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
+.btn-primary.focus, .btn-primary:focus, .btn-primary:hover { /* ESTE CAMPO ES PARA RELLENAR EL COLOR DEL VER MÁS PERO EL INTERNO CUANDO SE PASA EL CURSOR  */  
     color: #ffffffb9;
     background-color: #ffffffb9;
 }
