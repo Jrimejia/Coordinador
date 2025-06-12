@@ -1,0 +1,1009 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enlaces Corporativos</title>
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+    <!-- MDB -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css" rel="stylesheet" />
+    <!-- STYLES CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+  
+   
+    
+
+    <style>
+
+        
+.mobile-only{
+    display: none;/* Se oculta en pantallas grandes*/
+}
+.desktop-only{
+ display: block;/* Se Muestra en pantallasgrandes*/
+
+}
+
+
+    /*Media query para pantallas pequeñas*/
+@media screen  and (max-width:600px){
+    body{
+        background-color: rgb(249, 249, 249);
+    }
+    .mobile-only{
+         display: block;/* Se muestra solo en pantallas pequeñas*/
+    }
+    .desktop-only{
+        display: none;/* Se Oculta en pantallas Pequeñas*/
+    }
+}
+
+/*Media Query para pantallas medianas*/
+@media screen and (min-width:601px) and (min-width:1024px) 
+    {
+         body{
+                background-color: rgb(253, 255, 253);
+             }
+    }
+    </style>
+
+</head>
+
+<body>
+    <header>
+        <section class="showcase-area" id="showcase">
+            <div class="showcase-container">
+              <h5 class="main-title" id="home"></h5>
+              <p></p>
+              
+            </div>
+          </section>
+      
+        <!-- Navbar -->
+        <nav class="navbar">
+            <div class="navbar-container container">
+                
+                <div class="hamburger-lines">
+                <span class="line line1"></span>
+                <span class="line line2"></span>
+                <span class="line line3"></span>
+            </div>
+           
+            <h1 class="logo"></h1>
+          </div>
+        </nav>
+        <!-- Navbar -->
+
+        <!-- Background image -->
+        
+        <!-- Background image -->
+    </header>
+
+    
+    
+  
+     <!-- Lista de precios -->
+
+     <div class="container experiencia">
+        <h2 class="t-cen mar-bot mar-top">Enlaces Corporativos</h2>
+        <div class="accordion accordion-flush" id="accordionExample">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+
+                    <button class="accordion-button" type="button" data-mdb-toggle="collapse"
+                        data-mdb-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+
+                        <img src="./img/02.png" class="rounded-circle" height="20" alt="" loading="lazy" />
+                       Administrativo
+
+                        
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne"
+                    data-mdb-parent="#accordionExample">
+                    <div class="accordion-body">
+
+                       <!-- Skills -->
+    <div class="container skills">
+        <div class="row">
+          
+            <div class="col-md">    
+                <div class="skill">
+                <h6>Fecarval </h6>
+       <div class="progress">
+                        
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+            aria-valuemin="0" aria-valuemax="100">
+         <a href="https://www.fecarval.com.co/index.php/estado-de-cuenta-1
+         " class="btn btn-primary" target="_blank" >Ver más</a>
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+
+                <div class="skill">
+               <h6>Facturas Virtuales - JCGARCIA </h6>
+               <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                aria-valuemin="0" aria-valuemax="100">
+               <a href="https://carval464.sharepoint.com/sites/FACTURASVIRTUALES/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2FFACTURASVIRTUALES%2FDocumentos%20compartidos%2FFACTURAS%20PRUEBA%2FJCGARCIA&p=true&ga=1
+               "class="btn btn-primary" target="_blank">Ver más</a>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="skill">
+                  <h6>Paycard - Bancolombia </h6>
+                  <div class="progress">
+                   <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                   aria-valuemin="0" aria-valuemax="100">
+                  <a href="https://prepaid.firstdata.com/bancolombia/"class="btn btn-primary" target="_blank">Ver más</a>
+                               
+                           </div>
+                       </div>
+                   </div>
+
+                   <div class="skill">
+                    <h6>Página principal de Microsoft Office</h6>
+                    <div class="progress">
+                     <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                     aria-valuemin="0" aria-valuemax="100">
+                    <a href="https://www.office.com/?auth=2&home=1"class="btn btn-primary" target="_blank">Ver más</a>
+                                 
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="skill">
+                      <h6>SharePoint</h6>
+                      <div class="progress">
+                       <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                       aria-valuemin="0" aria-valuemax="100">
+                      <a href="https://carval464.sharepoint.com/_layouts/15/sharepoint.aspx?"class="btn btn-primary" target="_blank">Ver más</a>
+                                   
+                               </div>
+                           </div>
+                       </div>
+
+                       <div class="skill">
+                        <h6>Facturas Virtuales - LRODRIGUEZ </h6>
+                        <div class="progress">
+                         <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                         aria-valuemin="0" aria-valuemax="100">
+                        <a href="https://carval464.sharepoint.com/sites/FACTURASVIRTUALES/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2FFACTURASVIRTUALES%2FDocumentos%20compartidos%2FFACTURAS%20PRUEBA%2FLRODRIGUEZ&p=true"class="btn btn-primary" target="_blank">Ver más</a>
+                                     
+                                 </div>
+                             </div>
+                         </div>
+
+                         <div class="skill">
+                          <h6>Aprobaciones de Compras </h6>
+                          <div class="progress">
+                           <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                           aria-valuemin="0" aria-valuemax="100">
+                          <a href="https://carval464.sharepoint.com/sites/aprobacionescompras/SitePages/Inicio.aspx"class="btn btn-primary" target="_blank">Ver más</a>
+                                       
+                                   </div>
+                               </div>
+                           </div>
+
+                           <div class="skill">
+                            <h6>Servientrega Corporativo</h6>
+                            <div class="progress">
+                             <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                             aria-valuemin="0" aria-valuemax="100">
+                            <a href="https://canales.servientrega.com/sisclinet/login.aspx"class="btn btn-primary" target="_blank">Ver más</a>
+                                         
+                                     </div>
+                                 </div>
+                             </div>
+
+                            
+                        </div>
+                    </div>
+                </div>
+            
+        <div class="container skills">
+           <div class="row">
+                        
+          <div class="col-md">
+                 <div class="skill">
+             <h6>Acsendo
+            </h6>
+             <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+          aria-valuemin="0" aria-valuemax="100">
+           <a href="https://hr.acsendo.com/" class="btn btn-primary" target="_blank">Ver más</a>
+       
+                  </div>
+               </div>
+        </div>
+            
+               <div class="skill">
+                    <h6>Energy Corporativo
+                    </h6>
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                            aria-valuemin="0" aria-valuemax="100">
+                        <a href="http://servicioserp.com/index.php/login/18"class="btn btn-primary" target="_blank">Ver más</a>
+                  </div>
+             </div>
+           </div>
+                     
+               </div>
+            </div>
+      </div>
+                        
+               <div class="container skills">
+              <div class="row">
+                                
+                          <div class="col-md">
+                              <div class="skill">
+                              <h6>Buk · Carval</h6>
+                          <div class="progress">
+                        <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                     aria-valuemin="0" aria-valuemax="100">
+                  <a href="https://carval.buk.co/benefits"class="btn btn-primary"target="_blank">Ver más</a>
+                  </div>
+                </div>
+           </div>
+                        
+                </div>
+                 </div>
+             </div>
+                                    
+                                    
+             <div class="container skills">
+               <div class="row">
+                                               
+              <div class="col-md">
+                                                   
+              </div>
+        </div>
+      </div>
+
+         <div class="container skills">
+       <div class="row">
+                                                        
+    <div class="col-md">
+       <div class="skill">
+     <h6>Servicio de Taxi Empresarial: Gestión de viajes fácil y segura</h6>
+      <div class="progress">
+         <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+       aria-valuemin="0" aria-valuemax="100">
+          <a href="https://www.taxislibres.com.co/transporte-empresas"class="btn btn-primary"target="_blank">Ver más</a>
+        </div>
+        </div>
+        </div>
+                                                
+     </div>
+    </div>
+         </div>
+                                                            
+                                                            
+     <div class="container skills">
+     <div class="row">
+                                                                       
+      <div class="col-md">
+                                                                           
+     </div>
+             </div>
+          </div>
+                                                
+          <div class="container skills">
+            <div class="row">
+                                                             
+         <div class="col-md">
+            <div class="skill">
+          <h6>Reportes Power BI  </h6>
+           <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+            aria-valuemin="0" aria-valuemax="100">
+               <a href="https://reporting.carval.com.co/pbi/browse"class="btn btn-primary"target="_blank">Ver más</a>
+             </div>
+             </div>
+             </div>
+                                                     
+          </div>
+         </div>
+              </div>
+
+                     <!-- UN CAMPO DE ACORDEON NUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->
+      
+           <div class="container skills">
+            <div class="row">
+                                                             
+         <div class="col-md">   
+            <div class="skill">
+          <h6>Control Horas Extras</h6>
+           <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+            aria-valuemin="0" aria-valuemax="100">
+               <a href="https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=OjXL4b6ZVEiGd7Yph2NVvV4eIWe8ewlFsTVQLAVbGEpUOVRUWlExTjIwQ01PT0s0VjhZSzYzNFJUOS4u&Token=7f2029d701c84c2894f5ce503d4e114a"class="btn btn-primary"target="_blank">Ver más</a>
+             </div>
+             </div>
+             </div>
+                                                     
+          </div>
+         </div>
+              </div>
+
+               <!-- UN CAMPO DE ACORDEON NUEVO  -->  
+
+
+                <!-- UN CAMPO DE ACORDEON NUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->
+      
+           <div class="container skills">
+            <div class="row">
+                                                             
+         <div class="col-md">   
+            <div class="skill">
+          <h6>Enlace Horas Extras</h6>
+           <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+            aria-valuemin="0" aria-valuemax="100">
+               <a href="https://forms.office.com/r/FZSZfdBEAd"class="btn btn-primary"target="_blank">Ver más</a>
+             </div>
+             </div>
+             </div>
+                                                     
+          </div>
+         </div>
+              </div>
+
+               <!-- UN CAMPO DE ACORDEON NUEVO  -->    
+                
+  <!-- UN CAMPO DE ACORDEON NUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->
+      
+           <div class="container skills">
+            <div class="row">
+                                                             
+         <div class="col-md">   
+            <div class="skill">
+          <h6>Mandar y servir</h6>
+           <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+            aria-valuemin="0" aria-valuemax="100">
+               <a href="https://mandaryservir.co/batuto/users/login"class="btn btn-primary"target="_blank">Ver más</a>
+             </div>
+             </div>
+             </div>
+                                                     
+          </div>
+         </div>
+              </div>
+
+               <!-- UN CAMPO DE ACORDEON NUEVO  -->    
+           
+    
+        <!-- UN CAMPO DE ACORDEON NUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->
+      
+           <div class="container skills">
+            <div class="row">
+                                                             
+         <div class="col-md">
+            <div class="skill">
+          <h6>Ubits</h6>
+           <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+            aria-valuemin="0" aria-valuemax="100">
+               <a href="https://login.ubitslearning.com/login?state=hKFo2SBIbFlmYVJtNS1yamhmRF9IZEx1R3Z2R0RlWWVNYkp0aaFupWxvZ2luo3RpZNkg
+               b0FhWEFNaGlnTzM0Y0RZX0ZhcF95Z29ZclctU2NxVnmjY2lk2SA1TkhqdG90dHl1OE5aRFFkYXRMdmtjRW5nd296VU9nNA&client=5NHjtottyu8NZDQdatLv
+               kcEngwozUOg4&protocol=oauth2&response_type=code&scope=openid%20profile%20email&nonce=N66d082040fd39&response_mode=form_post
+               &resource=https%3A%2F%2Flogin.ubitslearning.com&redirect_uri=https%3A%2F%2Fubitslearning
+               .com%2Fauth%2Foidc%2F&audience=https%3A%2F%2Fubits-api-authorization"class="btn btn-primary"target="_blank">Ver más</a>
+             </div>
+             </div>
+             </div>
+                                                     
+          </div>
+         </div>
+              </div>
+
+               <!-- UN CAMPO DE ACORDEON NUEVO  -->    
+                
+               
+
+               
+        <!-- UN CAMPO DE ACORDEON NUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->
+      
+
+             
+                                                                 
+                                                                 
+          <div class="container skills">
+          <div class="row">
+                                                                            
+           <div class="col-md">
+                                                                                
+          </div>
+                  </div>
+               </div>
+                              
+                                                                             
+     <div class="container skills">
+        <div class="row">
+                                                                          
+         <div class="col-md">
+                                                                              
+        </div>
+                </div>
+             </div>
+                                                   
+             <div class="container skills">
+               <div class="row">
+                                                                
+            <div class="col-md">
+               <div class="skill">
+             <h6>Legalizacion de Gastos - Carval Colombia</h6>
+              <div class="progress">
+                 <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+               aria-valuemin="0" aria-valuemax="100">
+                  <a href="http://apps.carval.com.co/dilan/"class="btn btn-primary"target="_blank">Ver más</a>
+                </div>
+                </div>
+                </div>
+                                                        
+             </div>
+            </div>
+                 </div>
+                                                                    
+                                                                    
+             <div class="container skills">
+             <div class="row">
+                                                                               
+              <div class="col-md">
+                
+                                                                                   
+             </div>
+                     </div>
+                  </div>           
+                    </div>
+                </div>
+            </div>
+
+                
+                  
+                     <!-- (UN CAMPO DE ACORDEON NUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->                                        
+                                                                         
+
+
+
+           
+               
+                   
+            
+               <!-- Skills -->
+
+
+
+
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+                        data-mdb-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <img src="./img/02.png" class="rounded-circle" height="20" alt="" loading="lazy" />
+                        Almacenamiento
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                    data-mdb-parent="#accordionExample">
+                    <div class="accordion-body">
+                             <!-- Skills -->
+
+
+    <div class="container skills">
+        <div class="row">
+          
+            <div class="col-md">
+             <div class="skill">
+                 <h6>Ocupación Bodegas Carval General </h6>
+            <div class="progress">
+                        
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                aria-valuemin="0" aria-valuemax="100">
+                <a href="https://carval464.sharepoint.com/:x:/r/sites/biabastecimiento/_layouts/15/Doc.aspx?sourcedoc=%7B788FF192-23F9-4A16-AE9C-535BC157A6A9%7D&file=OCUPACION%20BODEGAS%20CARVAL%20GENERAL.xlsx&action=default&mobileredirect=true"class="btn btn-primary" target="_blank">Ver más</a>
+                            
+                                            
+           </div>    
+          </div>
+    </div>
+
+
+
+    
+    
+
+             <div class="skill">
+              <h6>Datos Cuarto Frio</h6>
+              <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+               aria-valuemin="0" aria-valuemax="100">
+           <a href="https://carval464.sharepoint.com/sites/MetrologaLaboratoriosCarval/Mantenimiento/Forms/AllItems.aspx?e=5%3A588a8ac692274d01a9382ddccddccd34&sharingv2=true&fromShare=true&at=9&cid=b122e742%2D3320%2D4961%2Da441%2Db4b938c2445e&FolderCTID=0x012000089851C16CC22749A44CDC981FB89AD6&id=%2Fsites%2FMetrologaLaboratoriosCarval%2FMantenimiento%2F7%20Cuartos%20frios%2FMedellin&viewid=6dee27bb%2Da174%2D4151%2Db204%2Dc57228b3e993"class="btn btn-primary" target="_blank">Ver más</a>
+                            
+                </div>
+          </div>
+        </div>
+
+        
+  
+             </div>
+         </div>
+       </div>
+
+       <!-- UN CAMPO DE ACORDEON NUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->
+      
+           <div class="container skills">
+            <div class="row">
+                                                             
+         <div class="col-md">   
+            <div class="skill">
+          <h6>Críticos - Comentarios</h6>
+           <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+            aria-valuemin="0" aria-valuemax="100">
+               <a href="https://carval464.sharepoint.com/:x:/r/sites/biabastecimiento/_layouts/15/Doc.aspx?sourcedoc=
+               %7B7638B457-0695-43A4-9F80-594F2B350ABF%7D&file=Comentarios%20-%20Cr%C3%ADticos%20S%26OP.xlsm&action=default&mobileredirect=true"class="btn btn-primary"target="_blank">Ver más</a>
+             </div>
+             </div>
+             </div>
+                                                     
+          </div>
+         </div>
+              </div>
+
+               <!-- UN CAMPO DE ACORDEON NUEVO  -->  
+            
+        <div class="container skills">
+       <div class="row">
+                        
+            <div class="col-md">
+         <div class="skill">
+             <h6>DRP</h6>
+        <div class="progress">
+          <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+             aria-valuemin="0" aria-valuemax="100">
+       <a href="http://drp.carval.com.co/DemandDriven/frmLogin.aspx" class="btn btn-primary" target="_blank">Ver más</a>
+                                       
+         </div>
+         </div>
+        </div>
+            
+          <div class="skill">
+        <h6>Tracking Pedidos</h6>
+           <div class="progress">
+             <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                 aria-valuemin="0" aria-valuemax="100">
+             <a href="http://apps.carval.com.co/trackingpedidos/Account/SignIn?ReturnUrl=%2ftrackingpedidos%2fGridView"class="btn btn-primary" target="_blank">Ver más</a>
+              </div>
+               </div>
+              </div>          
+         </div>
+         </div>
+     </div>
+                                                        
+                                                                    
+             <div class="container skills">
+             <div class="row">
+                                                                               
+              <div class="col-md">
+                                                                                   
+             </div>
+                     </div>
+                  </div>           
+                    </div>
+                </div>
+            </div>
+
+
+                               <!-- (UN CAMPO DE ACORDEON NUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->        
+
+            
+               <!-- Skills -->
+
+
+               
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-mdb-toggle="collapse"
+                        data-mdb-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        <img src="./img/02.png" class="rounded-circle" height="20" alt="" loading="lazy" />
+                        Documental
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                    data-mdb-parent="#accordionExample">
+                    <div class="accordion-body">
+                           <!-- Skills -->
+    <div class="container skills">
+        <div class="row">
+          
+            <div class="col-md">
+                <div class="skill">
+                    <h6>Certificados Importaciones Carval</h6>
+                    <div class="progress">
+                        
+                        <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                            aria-valuemin="0" aria-valuemax="100">
+                            <a href="https://carval464.sharepoint.com/sites/importaciones/default.aspx" class="btn btn-primary" target="_blank" >Ver más</a>
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+
+                <div class="skill">
+                    <h6>Certificados Carval - Página Principal</h6>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                            aria-valuemin="0" aria-valuemax="100">
+                            <a href="https://carval464.sharepoint.com/sites/certificadoscarval/SitePages/P%C3%A1gina%20principal%20de%20la%20comunidad.aspx?e=1%3A610f76475c7449f282dba090ef5baf9d"class="btn btn-primary" target="_blank">Ver más</a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+               
+                            
+                    
+                        </div>
+                    </div>
+                </div>
+            
+
+
+        <!-- UN CAMPO DE ACORDEON NUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->
+      
+           <div class="container skills">
+            <div class="row">
+                                                             
+         <div class="col-md">   
+            <div class="skill">
+          <h6>Capacitaciones 2025 </h6>
+           <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+            aria-valuemin="0" aria-valuemax="100">
+               <a href="https://carval464.sharepoint.com/sites/DOrganizacional/Formacin%20y%20Desarrollo/Forms/AllItems.aspx?id=%2Fsites%2FDOrganizacional%2FFormacin%20y%20
+               Desarrollo%2FCronogramas%20de%20Capacitaci%C3%B3n%20de%20Procesos%2FLog%C3%ADstica%20Medell%C3%ADn&viewid=f3e3d4a4%2Ddcdd%2D4f30%2D8989%2Df50624e36f1a"class="btn btn-primary"target="_blank">Ver más</a>
+             </div>
+             </div>
+             </div>
+                                                     
+          </div>
+         </div>
+              </div>
+
+               <!-- UN CAMPO DE ACORDEON NUEVO  -->  
+
+
+                <div class="container skills">
+                    <div class="row">
+                        
+                      <div class="col-md">
+                      <div class="skill">
+                   <h6>Fichas Técnicas y de Seguridad</h6>
+                  <div class="progress">
+             <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+             aria-valuemin="0" aria-valuemax="100">
+                   <a href="https://carval464.sharepoint.com/sites/fichastecnicasydeseguridad/SitePages/Inicio.aspx?OR=Teams-HL&CT=1709561753176&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDAyMDIwNTUxNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" class="btn btn-primary" target="_blank">Ver más</a>
+                                       
+           </div>
+      </div>
+  </div>
+            
+                  <div class="skill">
+                <h6>Certificados Carval - Certificados de Análisis 2017 </h6>
+                  <div class="progress">
+             <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                  aria-valuemin="0" aria-valuemax="100">
+            <a href="https://carval464.sharepoint.com/sites/certificadoscarval/Certificados%20de%20Anlisis/Forms/AllItems.aspx"class="btn btn-primary" target="_blank">Ver más</a>
+         </div>
+           </div>
+       </div>
+                                
+              </div>
+       </div>
+    </div>
+                        
+                            <div class="container skills">
+                           <div class="row">
+                                
+                         <div class="col-md">
+                         <div class="skill">
+                     <h6>Fichas Tecnicas - Hojas de Seguridad</h6>
+                <div class="progress">
+            <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                  aria-valuemin="0" aria-valuemax="100">
+            <a href="https://carval464.sharepoint.com/sites/gestiondelconocimiento/SitePages/Inicio.aspx"class="btn btn-primary"target="_blank">Ver más</a>
+          </div>
+        </div>
+       </div>
+                        
+           </div>
+       </div>
+ </div>
+                                    
+                 
+
+         <div class="container skills">
+       <div class="row">
+                                                        
+    <div class="col-md">
+       <div class="skill">
+     <h6>DocManager</h6>
+      <div class="progress">
+         <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+       aria-valuemin="0" aria-valuemax="100">
+          <a href="https://carval.docmanager.app/APP/Public/ExternalDMAuthStart.html?r=8cedaffd-dd29-45b4-b894-74756d843d1b&lang=es&ReturnUrl=https%3a%2f%2fcarval.docmanager.app%2fapp%2fSense%2fLanding.aspx"class="btn btn-primary"target="_blank">Ver más</a>
+        </div>
+        </div>
+        </div>
+                                                
+     </div>
+    </div>
+         </div>
+
+
+
+
+
+                               <!-- (UN CAMPO DE ACORDEON NUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->        
+            
+               <!-- Skills -->
+
+                    </div>
+                </div>
+            </div>
+           
+        </div>
+    </div>
+  
+
+
+            
+    <div class="container experiencia">
+       
+        <div class="accordion accordion-flush" id="accordionExample">
+           
+                                                            
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingFour">
+    <button class="accordion-button" type="button" data-mdb-toggle="collapse" data-mdb-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+        <img src="./img/02.png" class="rounded-circle" height="20" alt="" loading="lazy">
+       Transporte
+    </button>
+            </h2>
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+            data-mdb-parent="#accordionExample">
+            <div class="accordion-body">
+              </div>
+              
+            
+
+
+                   <!-- (UN CAMPO DE ACORDEON NUEVO) 
+           ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->        
+
+
+
+
+    <div class="container skills">
+      <div class="row">
+        
+          <div class="col-md">
+              <div class="skill">
+                  <h6>Satrack</h6>
+                  <div class="progress">
+                      
+                      <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                          aria-valuemin="0" aria-valuemax="100">
+                          <a href="https://www.satrack.com.co/" class="btn btn-primary" target="_blank" >Ver más</a>
+                          
+                      </div>
+                      
+                  </div>
+              </div>
+
+            <div class="skill">
+                <h6>Control de Entregas</h6>
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+                        aria-valuemin="0" aria-valuemax="100">
+                        <a href="https://login-ultimamilla.satrack.com/login"class="btn btn-primary" target="_blank">Ver más</a>
+                        
+                    </div>
+                </div>
+            </div>  
+
+            <!-- UN CAMPO DE ACORDEON NUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVONUEVO) 
+         ( PARA PODER AGREGAR UN CAMPO NUEVO, TOCA INGRESAR EN MEDIO DE LOS DEMÁS CAMPOS)    -->
+    
+         
+<!-- UN CAMPO DE ACORDEON NUEVO  -->    
+                        
+                
+                    </div>
+                </div>
+            </div>
+        
+            <div class="container skills">
+                <div class="row">
+                    
+                  <div class="col-md">
+                  <div class="skill">
+               <h6>LOGIMILES</h6>
+              <div class="progress">
+         <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+         aria-valuemin="0" aria-valuemax="100">
+               <a href="https://web.logimiles.com/portal/login" class="btn btn-primary" target="_blank">Ver más</a>
+                                   
+       </div>
+  </div>
+</div>
+             <!-- UN CAMPO DE ACORDEON NUEVO  -->    
+
+
+
+
+             <!-- UN CAMPO DE ACORDEON NUEVO  -->    
+                        
+                
+                    </div>
+                </div>
+            </div>
+        
+            <div class="container skills">
+                <div class="row">
+                    
+                  <div class="col-md">
+                  <div class="skill">
+               <h6>Despachos sede Medellín 2024</h6>
+              <div class="progress">
+         <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+         aria-valuemin="0" aria-valuemax="100">
+               <a href="https://carval464-my.sharepoint.com/:x:/r/personal/luis_rodriguez_carval_com_co/_layouts/15/Doc.aspx?sourcedoc=%7BE35DFF0B-7BB9-4D05-91CF-3B86A36C3ECF%7D&file=Libro%201.xlsx&action=editnew&mobileredirect=true&wdNewAndOpenCt=1709231788639&ct=1709231789199&wdOrigin=OFFICECOM-WEB.START.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=a9afcd36-7b35-4aa6-b073-846cb5a2eb92&cid=e1e5f071-211d-48cf-b635-da048aabbd5b" class="btn btn-primary" target="_blank">Ver más</a>
+                                   
+       </div>
+  </div>
+</div>
+             <!-- UN CAMPO DE ACORDEON NUEVO  -->    
+     
+          </div>
+      </div>
+  </div>
+
+  <div class="container skills">
+      <div class="row">
+          
+        <div class="col-md">
+        <div class="skill">
+     <h6>Despachos sede Medellín 2025</h6>
+    <div class="progress">
+<div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+aria-valuemin="0" aria-valuemax="100">
+     <a href="https://carval464-my.sharepoint.com/:x:/r/personal/luis_rodriguez_carval_com_co/_layouts/15/Doc.aspx?sourcedoc=%7BB5F7A87D-A097-42AF-A4D6-D62516B46D62%7D&file=DESPACHOS%20SEDE%20MEDELLIN%202025.xlsx&fromShare=true&action=default&mobileredirect=true" class="btn btn-primary" target="_blank">Ver más</a>
+                         
+</div>
+</div>
+</div>
+
+                  <!-- UN CAMPO DE ACORDEON NUEVO  -->    
+
+
+              <div class="skill">
+            <h6>Servicios Tac Medellin</h6>
+              <div class="progress">
+         <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+              aria-valuemin="0" aria-valuemax="100">
+        <a href="https://carval464-my.sharepoint.com/:x:/r/personal/luis_rodriguez_carval_com_co/_layouts/15/Doc.aspx?sourcedoc=%7B9ED89A7C-2178-46A6-AE18-BCFB88FA9E5F%7D&file=Libro%201.xlsx&action=editnew&mobileredirect=true&login_hint=luis.rodriguez%40carval.com.co&wdNewAndOpenCt=1714157788295&ct=1714157788913&wdOrigin=OFFICECOM-WEB.START.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=883b720e-6043-487c-a0ba-49be74900f71&cid=3f3c379e-4220-4818-930a-ce71ab1aeee7"class="btn btn-primary" target="_blank">Ver más</a>
+     </div>
+       </div>
+   </div>
+
+              <!-- DIVS DE FOOTER   -->    
+                            
+          </div>
+   </div>
+</div>
+
+
+              <!-- DIVS DE FOOTER   -->    
+                    
+                        <div class="container skills">
+                       <div class="row">
+                            
+                     <div class="col-md">
+                     <div class="skill">
+                 <h6>Tracking Carval</h6>
+            <div class="progress">
+        <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="25"
+              aria-valuemin="0" aria-valuemax="100">
+        <a href="https://apps.carval.com.co/trackingweb/"class="btn btn-primary"target="_blank">Ver más</a>
+      </div>
+    </div>
+   </div>
+                    
+       </div>
+   </div>
+</div>
+                    
+   
+                                                        
+ 
+
+                </div>
+              </div>
+              
+              </div>
+                                                      
+           </div>
+          </div>
+               </div>
+                                                                  
+      
+
+          
+  <!-- Lista de precios -->
+
+
+
+    <footer class="bg-dark text-center text-white">
+        <!-- Grid container -->
+        <div class="container p-4">
+            <!-- Section: Social media -->
+            <section class="mb-4">
+                
+              
+
+                
+
+
+               
+            </section>
+           
+                    </div>
+                    <!--Grid row-->
+                </form>
+            </section>
+            <!-- Section: Form -->
+
+            <!-- Section: Text -->
+            <section class="mb-4">
+               
+            </section>
+            <!-- Section: Text -->
+
+        </div>
+        <!-- Grid container -->
+
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+            
+           
+        </div>
+        <!-- Copyright -->
+    </footer>
+
+</body>
+
+<!-- MDB -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"></script>
+<!-- JS -->
+<script src="js/main.js"></script>
+
+</html>
