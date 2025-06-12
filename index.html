@@ -14,6 +14,11 @@
     .desktop-only { display: block; }
 
     @media screen and (max-width: 600px) {
+  .showcase-area {
+    height: 20vh;
+    background-size: cover;
+    background-position: top center;
+  }
       body { background-color: rgb(249, 249, 249); }
       .mobile-only { display: block; }
       .desktop-only { display: none; }
@@ -22,7 +27,52 @@
     @media screen and (min-width: 601px) and (min-width: 1024px) {
       body { background-color: rgb(253, 255, 253); }
     }
-  </style>
+  
+    .skill h6 {
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .accordion-button img {
+      width: 24px;
+      height: 24px;
+      object-fit: contain;
+    }
+
+    .btn-primary {
+      font-size: 0.95rem;
+      padding: 6px 12px;
+    }
+
+    .accordion-body {
+      padding: 1rem 0.5rem;
+    }
+
+    .container.experiencia {
+      padding: 1rem;
+    }
+
+    @media screen and (max-width: 600px) {
+      .skill h6 {
+        font-size: 0.95rem;
+      }
+      .btn-primary {
+        font-size: 0.9rem;
+        padding: 6px 10px;
+      }
+      .accordion-button {
+        font-size: 1rem;
+        padding: 0.75rem 1rem;
+      }
+      .accordion-body {
+        padding: 1rem 0.5rem;
+      }
+      .container.experiencia {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+      }
+    }
+</style>
 </head>
 
 <body>
